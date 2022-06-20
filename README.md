@@ -34,11 +34,11 @@ Managing Orders and Returns
 Add to cart products
 Properly define the screen navigation (routing) and widgets (UI and reusable widget) implementation with a diagram.
 
-![This is an image] (https://github.com/nazmi038/Online-shop-app-/blob/main/Images/App%20image.png)
+![This is an image](https://github.com/nazmi038/Online-shop-app-/blob/main/Images/App%20image.png)
 
 # Sequence diagram
 
-![This is an image] (https://github.com/nazmi038/Online-shop-app-/blob/main/Images/sequence%20diagram.png)
+![This is an image](https://github.com/nazmi038/Online-shop-app-/blob/main/Images/sequence%20diagram.png)
 
 #  References:
 “E-Commerce - Wikipedia.” E-Commerce - Wikipedia, en.wikipedia.org, 4 May 2021, (https://en.wikipedia.org/wiki/E-commerce.) 
